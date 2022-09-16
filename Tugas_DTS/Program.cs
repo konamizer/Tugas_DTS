@@ -22,12 +22,12 @@ namespace Tugas_DTS
             Console.Write("Masukkan nama : ");
             nama = Console.ReadLine();
             Console.WriteLine("List divisi :    ");
-            string[] kode = { "1.   junior programer", "2.  senior programer", "3.  manager"};
+            string[] kode = { "1.  junior programer", "2.  senior programer", "3.  manager"};
             foreach (string i in kode)
             {
                 Console.WriteLine(i);
             }
-            Console.Write("kode divisi (1/2/3)");
+            Console.Write("kode divisi (1/2/3): ");
             menu = int.Parse(Console.ReadLine());
             switch (menu)
             {
