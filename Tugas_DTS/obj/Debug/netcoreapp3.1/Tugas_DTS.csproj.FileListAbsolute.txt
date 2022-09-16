@@ -1,0 +1,14 @@
+C:\Users\Aidil\source\Tugas Project C#\Tugas_DTS\Tugas_DTS\bin\Debug\netcoreapp3.1\Tugas_DTS.exe
+C:\Users\Aidil\source\Tugas Project C#\Tugas_DTS\Tugas_DTS\bin\Debug\netcoreapp3.1\Tugas_DTS.deps.json
+C:\Users\Aidil\source\Tugas Project C#\Tugas_DTS\Tugas_DTS\bin\Debug\netcoreapp3.1\Tugas_DTS.runtimeconfig.json
+C:\Users\Aidil\source\Tugas Project C#\Tugas_DTS\Tugas_DTS\bin\Debug\netcoreapp3.1\Tugas_DTS.runtimeconfig.dev.json
+C:\Users\Aidil\source\Tugas Project C#\Tugas_DTS\Tugas_DTS\bin\Debug\netcoreapp3.1\Tugas_DTS.dll
+C:\Users\Aidil\source\Tugas Project C#\Tugas_DTS\Tugas_DTS\bin\Debug\netcoreapp3.1\Tugas_DTS.pdb
+C:\Users\Aidil\source\Tugas Project C#\Tugas_DTS\Tugas_DTS\obj\Debug\netcoreapp3.1\Tugas_DTS.csproj.AssemblyReference.cache
+C:\Users\Aidil\source\Tugas Project C#\Tugas_DTS\Tugas_DTS\obj\Debug\netcoreapp3.1\Tugas_DTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aidil\source\Tugas Project C#\Tugas_DTS\Tugas_DTS\obj\Debug\netcoreapp3.1\Tugas_DTS.AssemblyInfoInputs.cache
+C:\Users\Aidil\source\Tugas Project C#\Tugas_DTS\Tugas_DTS\obj\Debug\netcoreapp3.1\Tugas_DTS.AssemblyInfo.cs
+C:\Users\Aidil\source\Tugas Project C#\Tugas_DTS\Tugas_DTS\obj\Debug\netcoreapp3.1\Tugas_DTS.csproj.CoreCompileInputs.cache
+C:\Users\Aidil\source\Tugas Project C#\Tugas_DTS\Tugas_DTS\obj\Debug\netcoreapp3.1\Tugas_DTS.dll
+C:\Users\Aidil\source\Tugas Project C#\Tugas_DTS\Tugas_DTS\obj\Debug\netcoreapp3.1\Tugas_DTS.pdb
+C:\Users\Aidil\source\Tugas Project C#\Tugas_DTS\Tugas_DTS\obj\Debug\netcoreapp3.1\Tugas_DTS.genruntimeconfig.cache
